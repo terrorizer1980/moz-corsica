@@ -20,6 +20,6 @@
     "corsica-xkcd": "^0.3.0",
     "corsica-youtube": "^0.1.0",
     "forever": "^0.10.11",
-    "winston": "^0.7.3"
+    "winston": "^0.9.0"
   }
 }
